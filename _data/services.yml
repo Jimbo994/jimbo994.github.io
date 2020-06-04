@@ -1,17 +1,25 @@
-- menu_name: "Services"
+- menu_name: "UvA Websites"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "University of Amsterdam."
+  url: "https://www.uva.nl"
+  title: "UvA website"
 
-- name: "RSS"
-  url: "/feed.xml"
+- name: "Faculty of Exact Sciences."
+  url: "https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+- name: "Informatics Institute (IvI)."
+  url: "https://ivi.uva.nl"
+  title: "Informatic Institute"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "Amlab"
+  url: "http://amlab.science.uva.nl/"
+  title: "AMLAB"
+
+- name: "AI4Science home."
+  url: "/"
+  title: "Take me home country roads"
+
+#- name: "Amlab"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
