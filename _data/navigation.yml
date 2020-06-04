@@ -1,14 +1,19 @@
-- title: Start
-  url: "/"
+- title: "AI4Science"
+  url: "https://jimbo994.github.io/"
   side: left
 
-- title: Getting Started
+- title: "Laboratory"
   url: "/getting-started/"
-  side: left
+  side: right
+  dropdown:
+  - title: "Meet the People"
+    url: "/design/grid/"
+  - title: "Highlights"
+    url: "/design/typography/typography/"
 
-- title: "Templates"
+- title: "Consortium"
   url: "/design/"
-  side: left
+  side: right
   dropdown:
   - title: "Grid & Colors"
     url: "/design/grid/"
@@ -31,9 +36,9 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Events"
   url: "/headers/"
-  side: left
+  side: right
   dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
@@ -50,14 +55,14 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+#- title: Blog
+#  url: "/documentation/"
+#  side: right
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
