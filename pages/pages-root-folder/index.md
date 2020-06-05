@@ -5,10 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
+#title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
 header:
-  title: "AI4Science"
-  slogan: "Artificial Intelligence for Scientific Discovery"
+  #title: "AI4Science"
+  #slogan: "Artificial Intelligence for Scientific Discovery"
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
