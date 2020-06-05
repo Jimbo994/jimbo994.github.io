@@ -8,6 +8,7 @@ layout: frontpage
 #title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
 header:
   #title: "AI4Science"
+  title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
   #slogan: "Artificial Intelligence for Scientific Discovery"
   image_fullwidth: header_unsplash_12.jpg
 widget1:
