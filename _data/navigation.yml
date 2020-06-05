@@ -3,11 +3,11 @@
   side: left
 
 - title: "Laboratory"
-  url: "/getting-started/"
+  url: "/laboratory/"
   side: right
   dropdown:
   - title: "Meet the People"
-    url: "/laboratory/"
+    url: "/meet-the-people/"
   - title: "Highlights"
     url: "/design/typography/typography/"
   - title: "design a grid"
