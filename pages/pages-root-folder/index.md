@@ -6,11 +6,11 @@
 #
 layout: frontpage
 #title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
-#header:
-  #title: "AI4Science"
+header:
+  title: "AI4Science"
   #title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
-  #slogan: "Artificial Intelligence for Scientific Discovery"
-#  image_fullwidth: header_unsplash_12.jpg
+  slogan: "Artificial Intelligence for Scientific Discovery"
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -45,7 +45,7 @@ permalink: /index.html
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: true
+homepage: false 
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
