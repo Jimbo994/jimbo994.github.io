@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Laboratory"
 #subheadline: "Welcome to our lab."
@@ -18,4 +18,8 @@ The FNWI [Institute of Informatics (IvI)][4] is at the forefront of the scientif
 
 At the AI4Science Laboratory, we develop and apply artifical intelligence and data-driven solutions for scientific discovery.i
 
-[1]: {{ site.url }}{{ site.baseurl }}https://icai.ai/
+[1]: https://icai.ai/
+[2]: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html
+[3]: https://www.uva.nl
+[4]: https://ivi.uva.nl
+[5]: http://amlab.science.uva.nl
