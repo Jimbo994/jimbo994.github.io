@@ -16,7 +16,10 @@ A wealth of data is continuously produced from all sorts of experimental sources
 
 The FNWI [Institute of Informatics (IvI)][4] is at the forefront of the scientific research field of AI. IvI houses the [Amsterdam Machine Learning Laboratory (AMLab)][5] directed by Prof. Max Welling and also the head office of the aforementioned ICAI Network is at the Science Park in Amsterdam, well-connected to IvI.
 
-At the AI4Science Laboratory, we develop and apply artifical intelligence and data-driven solutions for scientific discovery.i
+At the AI4Science Laboratory, we develop and apply artifical intelligence and data-driven solutions for scientific discovery.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/meet-the-people/">Meet the people ›</a>
+
 
 [1]: https://icai.ai/
 [2]: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html
