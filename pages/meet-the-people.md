@@ -48,9 +48,6 @@ permalink: "/meet-the-people/"
 </div>
 
 
-
-
-
 <div class="row">
   <div class="large-4 columns">
       <img src="http://placehold.it/303x170/6b6351/e1dcd7&amp;text=Width+303+Pixel">
@@ -87,41 +84,33 @@ permalink: "/meet-the-people/"
 
 <div class="row t90">
     <div class="small-12 columns">
-        <h2>Color Scheme and Colors Codes</h2>
-        <p class="teaser"><em>Feeling Responsive</em> uses strong colors in combination with grey colors.</p>
-        <h3>Colours</h3>
+        <h3>Management</h3>
     </div><!-- /.small-12.columns -->
 </div>
 
 <div class="row">
-<div class="small-2 columns"><div style="background: #45B29D; height: 137px;"></div></div>
+<div class="small-2 columns"><div style="background: #45B29D; height: 137px;">
+<img src="/images/people/BerndEnnsing2_s.jpg">
+<p>Bernd Ensing</p>
+<p> Director</p>
+</div></div>
 <div class="small-2 columns"><div style="background: #334D5C; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #A1D044; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #EFC94C; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #E27A3F; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #DF4949; height: 137px;"></div></div>
 </div>
 
 
-
-<h3>Grey Scale</h3>
-
+<h3>Group Leaders and Consultants</h3>
 
 <div class="row">
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #D7D7D7; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #CBCBCB; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #BEBEBE; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #A4A4A4; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #979797; height: 137px;"></div></div>
 </div>
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #8B8B8B; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #646464; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #575757; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #4B4B4B; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #3E3E3E; height: 137px;"></div></div>
 </div>
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #313131; height: 137px;"></div></div>
