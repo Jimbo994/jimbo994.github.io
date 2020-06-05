@@ -9,18 +9,13 @@ header:
    title: ''
 permalink: "/getting-started/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+The AI4Science Lab is fashioned after the successful [Innovation Center for Artificial Intelligence (ICAI)][1] labs, which connect research institutes with industry or government in the area of artificial intelligence. The distinction is that the AI4Science Lab connects computer science and AI experts with scientists from the different academic domains within the [Faculty of Exact Sciences][2] at the [University of Amsterdam][3].
 
+A wealth of data is continuously produced from all sorts of experimental sources in the different academic research labs. Thanks to automatization, parallelisation, high-throughput setups, high-resolution instruments, and fast networks, “big data” has become a practical issue in a wide range of experimental research projects. Analysis of these large data streams is often a grand challenge. The current surge of AI machinery provides therefore a compelling opportunity to help with the analysis of these scientific data streams.
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+The FNWI [Institute of Informatics (IvI)][4] is at the forefront of the scientific research field of AI. IvI houses the [Amsterdam Machine Learning Laboratory (AMLab)][5] directed by Prof. Max Welling and also the head office of the aforementioned ICAI Network is at the Science Park in Amsterdam, well-connected to IvI.
+
+At the AI4Science Laboratory, we develop and apply artifical intelligence and data-driven solutions for scientific discovery.i
+
+[1]: {{ site.url }}{{ site.baseurl }}https://icai.ai/
