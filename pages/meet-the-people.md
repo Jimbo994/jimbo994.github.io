@@ -90,7 +90,7 @@ permalink: "/meet-the-people/"
 
 <div class="row">
 <div class="small-2 columns"><div style="background: #45B29D; height: 137px;">
-<img src="/images/people/BerndEnnsing2_s.jpg">
+<img src="/images/people/BerndEnsing2_s.jpg">
 <p>Bernd Ensing</p>
 <p> Director</p>
 </div></div>
