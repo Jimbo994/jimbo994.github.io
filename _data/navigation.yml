@@ -7,10 +7,11 @@
   side: right
   dropdown:
   - title: "Meet the People"
-    url: "/design/grid/"
+    url: "/laboratory/"
   - title: "Highlights"
     url: "/design/typography/typography/"
-
+  - title: "design a grid"
+    url: "/design/grid/
 - title: "Consortium"
   url: "/design/"
   side: right
