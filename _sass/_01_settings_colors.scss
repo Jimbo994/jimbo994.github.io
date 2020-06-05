@@ -32,7 +32,7 @@ $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
 $ci-7: #A1D044;     // green
-$ci-6: #000;     // black
+$ci-6: #1c1c1c;     // black
 
 
 /* Foundation Color Variables
@@ -107,13 +107,13 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $grey-13;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $grey-8;
 
 
 $subfooter-bg: $grey-13;
-$subfooter-color: $grey-8;
+$subfooter-color: $fff;
 $subfooter-link-color: $grey-8;
 
 
