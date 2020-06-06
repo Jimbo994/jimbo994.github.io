@@ -42,7 +42,8 @@ widget2:
 # this page as active in the topbar navigation
 #
 #homepage: false 
-
+<html>
+<body>
 <!-- ================================================================ -->
   <!-- Workshop announcement  -->
 
@@ -71,7 +72,8 @@ widget2:
 
 <!-- ================================================================ -->
 
-
+</body>
+</html>
 
 ---
 
