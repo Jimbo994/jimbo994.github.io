@@ -42,6 +42,38 @@ widget2:
 # this page as active in the topbar navigation
 #
 homepage: false 
+
+  <!-- ================================================================ -->
+  <!-- Workshop announcement  -->
+
+  <!-- One -->
+  <section id="one">
+  <div class="inner">
+    <header class="special">
+    <h3>Up coming event</h3>
+    <h2>The AI4Science Kickoff Workshop</h2>
+    </header>
+    <p>
+    The AI4Science Kickoff Workshop will be a virtual workshop hosted
+    by the <a href="https://ellis.eu/en">Ellis Society</a>. Ellis is
+    the European Laboratory for Learning and Intelligent Systems. The
+    workshop will be held on Wednesday, July 8, with help of video
+    conferencing tools. Local and international invited speakers will
+    give lectures. Registration is free of charge.
+    </p>
+    <p>
+    <ul class="actions">
+      <li><a href="events.html" class="button alt">Learn More</a></li>
+    </ul>
+    </p>
+  </div>
+  </section>
+
+
+  <!-- ================================================================ -->
+
+
+
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
