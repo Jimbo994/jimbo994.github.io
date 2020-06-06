@@ -12,7 +12,7 @@ header:
   #slogan: "Artificial Intelligence for Scientific Discovery"
   image_fullwidth: banner.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Upcoming Event"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
@@ -36,14 +36,14 @@ widget2:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-3permalink: /index.html
+#permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: false 
+#homepage: false 
 
-  <!-- ================================================================ -->
+<!-- ================================================================ -->
   <!-- Workshop announcement  -->
 
   <!-- One -->
@@ -69,16 +69,15 @@ homepage: false
   </div>
   </section>
 
-
-  <!-- ================================================================ -->
+<!-- ================================================================ -->
 
 
 
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+#<div id="videoModal" class="reveal-modal large" data-reveal="">
+#  <div class="flex-video widescreen vimeo" style="display: block;">
+#    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+#  </div>
+#  <a class="close-reveal-modal">&#215;</a>
+#</div>
