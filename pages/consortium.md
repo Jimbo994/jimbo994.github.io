@@ -16,14 +16,24 @@ The AI4Science Laboratory is the center of a rapidly growing multidisciplinary c
 
 The AI4Science Laboratory is located in the [UvA Science Park building][2], with a main office in the [Informatics Institute][3]. But our research projects are always connected to experiments in vastly different scientific research domains, which are located in the different FNWI institures. Currently, we have projects in:
 
-- The Anton Pannekoek Institute for Astronomy
-- The Institute for Biodiversity and Ecosystem Dynamics
-- The Institute of Physics
-- The Swammerdam Institute for Life Sciences
-- The Van 't Hoff Institute for Molecular Sciences
+- [The Anton Pannekoek Institute for Astronomy][4]
+- [The Institute for Biodiversity and Ecosystem Dynamics][5]
+- [The Institute of Physics][6]
+- [The Swammerdam Institute for Life Sciences][7]
+- [The Van 't Hoff Institute for Molecular Sciences][8]
 
-## EMAIL LIST
-To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via an email to us with your name, affiliation and a one-sentence motivation for joining.
+## Email List
+To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
 
-## BACHELOR AND MASTER STUDENT RESEARCH PROJECTS
-Computer Science students or other talented students with a keen interest in AI and an affinity for computer programming (e.g. in python, R, C, C++, etc) are welcome to inquire for research projects by sending an email to us.
+## Bachelor and Master Student Research Projects
+Computer Science students or other talented students with a keen interest in AI and an affinity for computer programming (e.g. in python, R, C, C++, etc) are welcome to inquire for research projects by sending an [email to us][9].
+
+[1]: /events/
+[2]: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html
+[3]: https://ivi.uva.nl
+[4]: https://api.uva.nl/
+[5]: https://sils.uva.nl/
+[6]: https://iop.uva.nl/
+[7]: https://ibed.uva.nl/
+[8]: https://hims.uva.nl/
+[9]: /laboratory/
