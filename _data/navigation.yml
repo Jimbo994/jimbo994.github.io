@@ -12,8 +12,10 @@
     url: "/design/typography/typography/"
   - title: "design a grid"
     url: "/design/grid/"
+  - title: "Laboratory2"
+    url: "/laboratory"
 - title: "Consortium"
-  url: "/design/"
+  url: "/consortium/"
   side: right
   dropdown:
   - title: "Grid & Colors"
