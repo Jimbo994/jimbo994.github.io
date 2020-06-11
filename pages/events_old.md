@@ -7,7 +7,7 @@ title: "A Virtual Workshop"
 header:
    image_fullwidth: "banner_lab.jpg"
    title: ''
-permalink: "/events/"
+permalink: "/events1214/"
 ---
 
 Deep learning and artificial intelligence for scientific research are evolving quickly, with new developments appearing continually for analyzing data sets, discovering patterns, and predicting behavior in all fields of science. The AI4Science Kickoff Workshop aims to bring junior and expert researchers together that share the interest in artificial intelligence developments for scientific discovery. Several invited speakers working on the forefronts of combining data science with e.g. systems biology, particle physics, molecular modeling, and astrophysics, will talk about intriguing scientific challenges and their latest developments to tackle them.
