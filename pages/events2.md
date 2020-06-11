@@ -6,7 +6,7 @@ title: "A Virtual Workshop"
 #teaser: "Hi, welcome to our lab."
 header: 
   image_fullwidth: "banner_kickoff.jpg"
-  # title: ''
+  title: ''
 permalink: "/events2/"
 ---
 
