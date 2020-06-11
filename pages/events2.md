@@ -4,9 +4,9 @@ show_meta: false
 title: "A Virtual Workshop"
 #subheadline: "Welcome to our lab."
 #teaser: "Hi, welcome to our lab."
-header:
-   image: "banner_kickoff.jpg"
-   title: ''
+header: no
+image: "banner_kickoff.jpg"
+  # title: ''
 permalink: "/events2/"
 ---
 
