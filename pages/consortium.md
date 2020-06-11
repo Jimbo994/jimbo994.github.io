@@ -5,7 +5,7 @@ title: "Consortium"
 #subheadline: "Welcome to our lab."
 #teaser: "Hi, welcome to our lab."
 header:
-   image_fullwidth: "molsim1_s.jpg"
+   image_fullwidth: "molsim2_s.jpg"
    title: ''
 permalink: "/consortium/"
 ---
