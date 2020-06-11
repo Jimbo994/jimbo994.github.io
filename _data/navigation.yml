@@ -7,7 +7,7 @@
   side: right
   dropdown:
   - title: "Meet the People"
-    url: "/meet-the-people2/"
+    url: "/meet-the-people/"
   - title: "Highlights"
     url: "/design/typography/typography/"
   - title: "design a grid"
@@ -39,7 +39,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Events-test-test"
+- title: "Events"
   url: "/events/"
   side: right
   dropdown:
