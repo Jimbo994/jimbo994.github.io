@@ -17,7 +17,7 @@
 - title: "Consortium"
   url: "/consortium/"
   side: right
-  dropdown:
+#  dropdown:
 #  - title: "Grid & Colors"
 #    url: "/design/grid/"
 #  - title: "Typography"
