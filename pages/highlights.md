@@ -26,7 +26,6 @@ The breakthrough discovery of the first gravitational wave signal in September 2
 
  By Benjamin Miller  <img src="../people/BenjaminMiller.jpg"
      alt="Benjamin Miller"
-     width="100px"
      border-radius="50px"
      style="float: center; margin-right: 10px;" /> 
 
@@ -45,13 +44,12 @@ Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate
 <img src="../images/fig_project2c.jpg"
      alt="LC"
      width="400"
-     style="float: left; margin-right: 10px;" />
+     style="float: right; margin-right: 10px;" />
 
 Analyzing and extracting all relevant information from such data is a challenging task. In addition, 2DLC method development is daunting as there are numerous parameters one can vary in order to achieve optimal separation. Successful implementation of the technique requires months of costly and cumbersome development. In response to this, algorithms are being developed to model chromatographic interaction of analyte molecules with the chemical moieties of the stationary phase, so as to allow prediction of optimal chromatographic conditions. In this project, we will look at the application of AI techniques, such as Bayesian inference, Bayesian optimization and deep learning to tackle parameter optimization, peak detection, baseline correction, and more.
 
  By Jim Boelrijk  <img src="../people/JimBoelrijk2.jpg"
      alt="Benjamin Miller"
-     width="100px"
      border-radius="50%"
      style="float: center; margin-right: 10px;" />
 
@@ -60,7 +58,7 @@ Analyzing and extracting all relevant information from such data is a challengin
 ## Radio Astronomy
 <br/>
 
-<img src="../images/fig_project3b.jpg"
+<img src="../images/fig_project3b.png"
      alt="LC"
      width="400"
      style="float: left; margin-right: 10px;" />
@@ -69,7 +67,7 @@ One of the cutting edge areas of astronomy is recognising rare features in data 
 
 These transients are typically multi-messenger events, meaning that their emission is seen throughout the electromagnetic spectrum and using other ‘messengers’ including neutrinos and gravitational waves. By combining the multi-messenger observations, we can probe the most extreme physical environments in the universe. However, we are not monitoring the whole sky all the time with sensitive observatories, so we need to alert them to interesting objects in order to trigger follow-up observations. As these events are often fleeting at different wavelengths, we need to trigger the follow-up in as close to real-time as possible.
 
-<img src="../images/fig_project3c.jpg"
+<img src="../images/fig_project3c.png"
      alt="LC"
      width="400"
      style="float: right; margin-right: 10px;" />
@@ -80,7 +78,6 @@ There are multiple areas where ML can assist with solving the task at hand and t
 
  By David Ruhe  <img src="../people/DavidRuhe.jpg"
      alt="David Ruhe"
-     width="100px"
      border-radius="50%"
      style="float: center; margin-right: 10px;" />
 
