@@ -10,10 +10,11 @@ header: no
 permalink: "/highlights/"
 ---
 
-<center> <h1>Highlights 1</h1> </center>
+<center> <h1>Highlights</h1> </center>
 
 
 ## Gravitational Waves
+<br/>
 
 <img src="../images/fig_project1.png"
      alt="Project1"
@@ -22,13 +23,18 @@ permalink: "/highlights/"
 
 The breakthrough discovery of the first gravitational wave signal in September 2015 (Nobel Prize 2017) has opened a new window to the Universe. Analyses of the signal waveforms during the initial inspiral, merger and final ringdown phase provide crucial information about the properties of superheavy stellar objects.
 
-          <li>By Benjamin Miller
-          <li><span class="image right"><img style="width: 100px; border-radius: 50%;" src="../people/BenjaminMiller.jpg" alt="Benjamin Miller" /></span>
+By Benjamin Miller
+
+<img src="../people/BenjaminMiller.jpg"
+     alt="Benjamin Miller"
+     width="100px"
+     border-radius = 50%
+     style="float: left; margin-right: 10px;" />
 
 ----------------------------------------------
 
 ## Liquid Chromatography
-
+<br/>
 Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate and detect trace molecular compounds in complex samples (think of proteins, antibodies, oils, paints, etc.). The separation is based on the difference in "retention" time that it takes for each compound to be carried by a solvent (mobile phase) through a column filled with a material (stationary phase) that interacts with the injected compounds based on a chosen property, such as molecular size, charge or hydrophilicity, as schematically drawn on the right. 2DLC is combined with a detection method such as UV-VIS, IR, or mass spectroscopy (MS), that identifies the separated molecules. As the compounds can have extremely low concentrations (e.g. protein biomarkers, plant hormones, food contaminants), the signals of interest are often buried in the noise of the data and information is being lost. Typical datasets contain several gigabytes of data per measurement.
 
 Analyzing and extracting all relevant information from such data is a challenging task. In addition, 2DLC method development is daunting as there are numerous parameters one can vary in order to achieve optimal separation. Successful implementation of the technique requires months of costly and cumbersome development. In response to this, algorithms are being developed to model chromatographic interaction of analyte molecules with the chemical moieties of the stationary phase, so as to allow prediction of optimal chromatographic conditions. In this project, we will look at the application of AI techniques, such as Bayesian inference, Bayesian optimization and deep learning to tackle parameter optimization, peak detection, baseline correction, and more.
@@ -38,7 +44,7 @@ By Jim Boelrijk
 --------------------------------------------
 
 ## Radio Astronomy
-
+<br/>
 One of the cutting edge areas of astronomy is recognising rare features in data streams in near-real time. This problem has arisen from massive imaging surveys of the sky at many wavelengths (optical, radio, X-ray). The purpose is no longer just to find objects that are there all or most of the time, but to find so-called ‘transient’ objects that appear fleetingly in hindsight.
 
 These transients are typically multi-messenger events, meaning that their emission is seen throughout the electromagnetic spectrum and using other ‘messengers’ including neutrinos and gravitational waves. By combining the multi-messenger observations, we can probe the most extreme physical environments in the universe. However, we are not monitoring the whole sky all the time with sensitive observatories, so we need to alert them to interesting objects in order to trigger follow-up observations. As these events are often fleeting at different wavelengths, we need to trigger the follow-up in as close to real-time as possible.
