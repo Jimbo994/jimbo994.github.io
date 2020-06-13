@@ -28,8 +28,8 @@ By Benjamin Miller
 <img src="../people/BenjaminMiller.jpg"
      alt="Benjamin Miller"
      width="100px"
-     border-radius = 50%
-     style="float: left; margin-right: 10px;" />
+     border-radius = "50%"
+     style="float: center; margin-right: 10px;" />
 
 ----------------------------------------------
 
