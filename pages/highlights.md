@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth 
 show_meta: false
-title: "Highlights"
+#title: "Highlights"
 #subheadline: "Welcome to our lab."
 #teaser: "Hi, welcome to our lab."
 header: no
@@ -10,10 +10,14 @@ header: no
 permalink: "/highlights/"
 ---
 
+<center> <h1>Highlights 1</h1> </center>
+
+
 ## Gravitational Waves
 
 <img src="../images/fig_project1.png"
      alt="Project1"
+     width="250"
      style="float: left; margin-right: 10px;" />
 
 The breakthrough discovery of the first gravitational wave signal in September 2015 (Nobel Prize 2017) has opened a new window to the Universe. Analyses of the signal waveforms during the initial inspiral, merger and final ringdown phase provide crucial information about the properties of superheavy stellar objects.
