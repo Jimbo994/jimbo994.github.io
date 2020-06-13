@@ -10,7 +10,7 @@ header: no
 permalink: "/highlights/"
 ---
 
-#Gravitational Waves
+# Gravitational Waves
 
 <img src="fig_project1.png"
      alt="Project1"
