@@ -1,12 +1,19 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contact us"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
 
- [1]: http://www.wufoo.com/
+CONTACT US
+Visiting Adress:
+Science Park 904
+1098 XH Amsterdam
+Postal Address:
+University of Amsterdam
+AI4Science Laboratory
+P.O. Box 94323
+1090 GH Amsterdam
+The Netherlands
+Tel: +31 (0)20 525 7519
+Email: P.D.Forre@uva.nl
