@@ -25,11 +25,11 @@ The breakthrough discovery of the first gravitational wave signal in September 2
 
 By Benjamin Miller
 
-<img src="../people/BenjaminMiller.jpg"
+| By Benjaming Miller | <img src="../people/BenjaminMiller.jpg"
      alt="Benjamin Miller"
      width="100px"
-     border-radius = "50%"
-     style="float: center; margin-right: 10px;" />
+     border-radius="50%"
+     style="float: center; margin-right: 10px;" /> |
 
 ----------------------------------------------
 
