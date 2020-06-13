@@ -17,12 +17,13 @@ permalink: "/highlights/"
 
 <img src="../images/fig_project1.png"
      alt="Project1"
-     width="250"
+     width="400"
      style="float: left; margin-right: 10px;" />
 
 The breakthrough discovery of the first gravitational wave signal in September 2015 (Nobel Prize 2017) has opened a new window to the Universe. Analyses of the signal waveforms during the initial inspiral, merger and final ringdown phase provide crucial information about the properties of superheavy stellar objects.
 
-By Benjamin Miller
+          <li>By Benjamin Miller
+          <li><span class="image right"><img style="width: 100px; border-radius: 50%;" src="../people/BenjaminMiller.jpg" alt="Benjamin Miller" /></span>
 
 ----------------------------------------------
 
