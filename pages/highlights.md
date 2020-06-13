@@ -12,7 +12,7 @@ permalink: "/highlights/"
 
 ## Gravitational Waves
 
-<img src="fig_project1.png"
+<img src="../images/fig_project1.png"
      alt="Project1"
      style="float: left; margin-right: 10px;" />
 
@@ -30,6 +30,7 @@ Analyzing and extracting all relevant information from such data is a challengin
 
 By Jim Boelrijk
 
+--------------------------------------------
 
 ## Radio Astronomy
 
@@ -42,3 +43,8 @@ Due to the nature of our searches, we cannot always predict the transient behavi
 There are multiple areas where ML can assist with solving the task at hand and the challenges it comes with. Examples are: finding latent (disentangled) representations of observed phenomena, undoing data corruption (e.g. denoising), unsupervised outlier detection, geometric deep learning. The project will explore the application and innovation of these techniques and will push the boundaries of machine learning and astronomy.
 
 By David Ruhe
+
+--------------------------------------------
+
+
+
