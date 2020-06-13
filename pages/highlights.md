@@ -26,9 +26,8 @@ The breakthrough discovery of the first gravitational wave signal in September 2
 
  By Benjamin Miller  <img src="../people/BenjaminMiller.jpg"
      alt="Benjamin Miller"
-     border-radius="50px"
      width="100"
-     style="float: center; margin-right: 10px;" /> 
+     style="float: center; margin-right: 10px; border-radius:50%;" /> 
 
 ----------------------------------------------
 
@@ -49,11 +48,12 @@ Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate
 
 Analyzing and extracting all relevant information from such data is a challenging task. In addition, 2DLC method development is daunting as there are numerous parameters one can vary in order to achieve optimal separation. Successful implementation of the technique requires months of costly and cumbersome development. In response to this, algorithms are being developed to model chromatographic interaction of analyte molecules with the chemical moieties of the stationary phase, so as to allow prediction of optimal chromatographic conditions. In this project, we will look at the application of AI techniques, such as Bayesian inference, Bayesian optimization and deep learning to tackle parameter optimization, peak detection, baseline correction, and more.
 
- By Jim Boelrijk  <img src="../people/JimBoelrijk2.jpg"
-     alt="Benjamin Miller"
-     border-radius="50%"
+ By Jim Boelrijk
+
+  <img src="../people/JimBoelrijk2.jpg"
+     alt="Jim Boelrijk"
      width="100"
-     style="float: center; margin-right: 10px;" />
+     style="float: center; margin-right: 10px; border-radius:50%;" />
 
 --------------------------------------------
 
@@ -69,7 +69,7 @@ One of the cutting edge areas of astronomy is recognising rare features in data 
 
 These transients are typically multi-messenger events, meaning that their emission is seen throughout the electromagnetic spectrum and using other ‘messengers’ including neutrinos and gravitational waves. By combining the multi-messenger observations, we can probe the most extreme physical environments in the universe. However, we are not monitoring the whole sky all the time with sensitive observatories, so we need to alert them to interesting objects in order to trigger follow-up observations. As these events are often fleeting at different wavelengths, we need to trigger the follow-up in as close to real-time as possible.
 
-<img src="../images/fig_project3c.jpg"
+<img src="../images/fig_project3a.png"
      alt="LC"
      width="400"
      style="float: right; margin-right: 10px;" />
@@ -78,7 +78,9 @@ Due to the nature of our searches, we cannot always predict the transient behavi
 
 There are multiple areas where ML can assist with solving the task at hand and the challenges it comes with. Examples are: finding latent (disentangled) representations of observed phenomena, undoing data corruption (e.g. denoising), unsupervised outlier detection, geometric deep learning. The project will explore the application and innovation of these techniques and will push the boundaries of machine learning and astronomy.
 
- By David Ruhe  <img src="../people/DavidRuhe.jpg"
+ By David Ruhe  
+
+<img src="../people/DavidRuhe.jpg"
      alt="David Ruhe"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>
