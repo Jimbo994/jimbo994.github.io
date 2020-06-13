@@ -27,7 +27,7 @@ The breakthrough discovery of the first gravitational wave signal in September 2
  By Benjamin Miller  <img src="../people/BenjaminMiller.jpg"
      alt="Benjamin Miller"
      border-radius="50px"
-     width=100
+     width="100"
      style="float: center; margin-right: 10px;" /> 
 
 ----------------------------------------------
@@ -69,7 +69,7 @@ One of the cutting edge areas of astronomy is recognising rare features in data 
 
 These transients are typically multi-messenger events, meaning that their emission is seen throughout the electromagnetic spectrum and using other ‘messengers’ including neutrinos and gravitational waves. By combining the multi-messenger observations, we can probe the most extreme physical environments in the universe. However, we are not monitoring the whole sky all the time with sensitive observatories, so we need to alert them to interesting objects in order to trigger follow-up observations. As these events are often fleeting at different wavelengths, we need to trigger the follow-up in as close to real-time as possible.
 
-<img src="../images/fig_project3c.png"
+<img src="../images/fig_project3c.jpg"
      alt="LC"
      width="400"
      style="float: right; margin-right: 10px;" />
@@ -81,7 +81,7 @@ There are multiple areas where ML can assist with solving the task at hand and t
  By David Ruhe  <img src="../people/DavidRuhe.jpg"
      alt="David Ruhe"
      width="100"
-     style="float: center; margin-right: 10px;"border-radius:50%;/>
+     style="float: center; margin-right: 10px; border-radius:50%;"/>
 
 --------------------------------------------
 
