@@ -27,6 +27,7 @@ The breakthrough discovery of the first gravitational wave signal in September 2
  By Benjamin Miller  <img src="../people/BenjaminMiller.jpg"
      alt="Benjamin Miller"
      border-radius="50px"
+     width=100
      style="float: center; margin-right: 10px;" /> 
 
 ----------------------------------------------
@@ -51,6 +52,7 @@ Analyzing and extracting all relevant information from such data is a challengin
  By Jim Boelrijk  <img src="../people/JimBoelrijk2.jpg"
      alt="Benjamin Miller"
      border-radius="50%"
+     width="100"
      style="float: center; margin-right: 10px;" />
 
 --------------------------------------------
@@ -78,8 +80,8 @@ There are multiple areas where ML can assist with solving the task at hand and t
 
  By David Ruhe  <img src="../people/DavidRuhe.jpg"
      alt="David Ruhe"
-     border-radius="50%"
-     style="float: center; margin-right: 10px;" />
+     width="100"
+     style="float: center; margin-right: 10px;"border-radius:50%;/>
 
 --------------------------------------------
 
