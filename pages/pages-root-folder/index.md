@@ -39,7 +39,7 @@ permalink: /index.html
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: true
+#homepage: true
 ---
 
 <center> <h2>Upcoming Events</h2> </center>
