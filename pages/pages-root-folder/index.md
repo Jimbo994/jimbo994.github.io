@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: banner.jpg
+  image_fullwidth: "banner.jpg"
 #widget1:
 #  title: "Radio Astronomoy"
 #  url: '/highlights/'
@@ -34,7 +34,8 @@ header:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-permalink: /index.html
+permalink: "/index.html"
+show_meta: false
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
