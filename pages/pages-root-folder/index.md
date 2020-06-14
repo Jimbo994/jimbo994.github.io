@@ -53,19 +53,19 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-<center> <h2>Upcoming Events</h2> </center>
-<center> <h1>THE AI4SCIENCE KICKOFF WORKSHOP</h1> </center>
-
-The AI4Science Kickoff Workshop will be a virtual workshop hosted by the Ellis Society. Ellis is the European Laboratory for Learning and Intelligent Systems. The workshop will be held on Wednesday, July 8, with help of video conferencing tools. Local and international invited speakers will give lectures. Registration is free of charge.
-
-___________________________________________
-
-<center> <h1>AI4SCIENCE LABORATORIUM</h1> </center>
-<center> <h2>How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?</h2> </center>
-
-The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
-
-We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
-
-__________________________________________
+#<center> <h2>Upcoming Events</h2> </center>
+#<center> <h1>THE AI4SCIENCE KICKOFF WORKSHOP</h1> </center>
+#
+#The AI4Science Kickoff Workshop will be a virtual workshop hosted by the Ellis Society. Ellis is the European Laboratory for Learning and Intelligent Systems. The workshop will be held on Wednesday, July 8, with help of video conferencing tools. Local and international invited speakers will give lectures. Registration is free of charge.
+#
+#___________________________________________
+#
+#<center> <h1>AI4SCIENCE LABORATORIUM</h1> </center>
+#<center> <h2>How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?</h2> </center>
+#
+#The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+#
+#We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
+#
+#__________________________________________
 
