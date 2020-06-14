@@ -4,26 +4,26 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page_fullwidth
 header:
   image_fullwidth: banner.jpg
-widget1:
-  title: "Radio Astronomoy"
-  url: '/highlights/'
-  image: fig_project3b_s.png
-  text: 'test'
-  #text: 'An active field of research in astronomy deals with recognising rare features in data streams from space obervations in (almost) real time. This challenging task arises from the massive imaging surveys of the sky carried our at a wide range of wavelengths (optical, radio, X-ray). The purpose is no longer just to find objects that are there all or most of the time, but also to spot so-called ‘transient’ objects that appear only fleetingly.'
-widget2:
-  title: "Liquid Chromatography"
-  url: '/highlights/'
-  image: fig_project2.png
-  text: 'test'  
+#widget1:
+#  title: "Radio Astronomoy"
+#  url: '/highlights/'
+#  image: fig_project3b_s.png
+#  text: 'test'
+#  #text: 'An active field of research in astronomy deals with recognising rare features in data streams from space obervations in (almost) real time. This challenging task arises from the massive imaging surveys of the sky carried our at a wide range of wavelengths (optical, radio, X-ray). The purpose is no longer just to find objects that are there all or most of the time, but also to spot so-called ‘transient’ objects that appear only fleetingly.'
+#widget2:
+#  title: "Liquid Chromatography"
+#  url: '/highlights/'
+#  image: fig_project2.png
+#  text: 'test'  
 #text:'Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate and detect trace molecular compounds in complex samples such as food contaminants, industrial production streams, urine, or blood, to name but a few examples. However, successful implementation requires time-consuming experiment-specific optimization of many parameters. Machine learning can aid with data-analysis and the acceleration of optimization.'  
-widget3:
-  title: "Gravitational Waves"
-  url: '/highlights/'
-  image: fig_project1.png
-  text: 'test'
+#widget3:
+#  title: "Gravitational Waves"
+#  url: '/highlights/'
+#  image: fig_project1.png
+#  text: 'test'
 #
 # Use the call for action to show a button on the frontpage
 #
