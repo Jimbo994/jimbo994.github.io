@@ -67,9 +67,10 @@ homepage: true
 
 The AI4Science Kickoff Workshop will be a virtual workshop hosted by the Ellis Society. Ellis is the European Laboratory for Learning and Intelligent Systems. The workshop will be held on Wednesday, July 8, with help of video conferencing tools. Local and international invited speakers will give lectures. Registration is free of charge.
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events2/">Learn More›</a>
+
 ___________________________________________
--------------------------------------------
-<center> <h1>AI4SCIENCE LABORATORIUM</h1> </center>
+<center> <h1>AI4Science Laboratorium</h1> </center>
 
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
 
@@ -77,6 +78,17 @@ The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sci
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
-__________________________________________
-------------------------------------------
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/laboratory/">Learn More›</a>
 
+
+__________________________________________
+
+<center> <h1>AI4Science Colloquiem</h1> </center>
+
+Bi-weekly Colloquiem
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/Colloquium/">Learn More›</a>
+
+-----------------------------------------
+
+<center> <h1>Projects</h1> </center>
