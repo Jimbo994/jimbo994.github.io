@@ -24,6 +24,11 @@ widget3:
   url: '/highlights/'
   image: fig_project1.png
   text: 'test'
+widget4:
+  title: "Gravitational Waves"
+  url: '/highlights/'
+  image: fig_project1.png
+  text: 'test'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -55,6 +60,8 @@ ___________________________________________
 
 <center> <h1>AI4SCIENCE LABORATORIUM</h1> </center>
 <center> <h2>How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?</h2> </center>
+
+> How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
 
 The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 
