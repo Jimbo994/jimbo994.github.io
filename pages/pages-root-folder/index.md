@@ -34,7 +34,7 @@ header:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-permalink: "/index.html"
+permalink: "/"
 show_meta: false
 #
 # This is a nasty hack to make the navigation highlight
