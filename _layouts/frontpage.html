@@ -29,7 +29,9 @@ format: frontpage
 	{% endif %}
 </div><!-- /.row -->
 
-
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
 
 {% comment %}
 *
@@ -106,6 +108,8 @@ format: frontpage
 *
 {% endcomment %}
 
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
+{% comment %}~*<div class="row">
+*    {{ content }}
+* </div><!-- /.row -->
+{% endcomment %}
+
