@@ -29,6 +29,16 @@ widget4:
   url: '/highlights/'
   image: fig_project1.png
   text: 'test'
+widget5:
+  title: "Gravitational Waves"
+  url: '/highlights/'
+  image: fig_project1.png
+  text: 'test'
+widget6:
+  title: "Gravitational Waves"
+  url: '/highlights/'
+  image: fig_project1.png
+  text: 'test'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -52,14 +62,13 @@ homepage: true
 ---
 
 <center> <h2>Upcoming Events</h2> </center>
-<center> <h1>THE AI4SCIENCE KICKOFF WORKSHOP</h1> </center>
+<center> <h1>The AI4Science Kickoff Workshop</h1> </center>
 
 The AI4Science Kickoff Workshop will be a virtual workshop hosted by the Ellis Society. Ellis is the European Laboratory for Learning and Intelligent Systems. The workshop will be held on Wednesday, July 8, with help of video conferencing tools. Local and international invited speakers will give lectures. Registration is free of charge.
 
 ___________________________________________
 
 <center> <h1>AI4SCIENCE LABORATORIUM</h1> </center>
-<center> <h2>How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?</h2> </center>
 
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
 
@@ -68,6 +77,8 @@ The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sci
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
 __________________________________________
+
+<center> <h1>Projects</h1> </center>
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
