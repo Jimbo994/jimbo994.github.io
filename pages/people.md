@@ -28,12 +28,12 @@ permalink: "/people/"
     </div>
   </div>
   <div class="large-3 columns">
-       <a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">
-       <img src="../people/PatrickForre.jpg" alt="Patrick Forre" /></a>
-       <div>
-          <h3><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forr&eacute</a></h3>
-          <p>Lab Manager</p>
-        </div>
+  <a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">
+  <img src="../people/PatrickForre.jpg" alt="Patrick Forre" />
+    <div>
+       <h3><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forr&eacute</a></h3>
+       <p>Lab Manager</p>
+    </div>
   </div>
 </div>
 
