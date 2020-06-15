@@ -2,6 +2,8 @@
 layout: page
 title: "Contact us"
 permalink: "/contact/"
+header:
+  image_fullwidth: banner.jpg
 ---
 
 
