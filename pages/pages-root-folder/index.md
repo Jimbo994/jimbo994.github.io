@@ -85,7 +85,7 @@ __________________________________________
 
 <center> <h1>AI4Science Colloquiem</h1> </center>
 
-Bi-weekly Colloquiem
+The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounced speakers active in the field of Artificial Intelligence and Science. 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/Colloquium/">Learn More›</a>
 
