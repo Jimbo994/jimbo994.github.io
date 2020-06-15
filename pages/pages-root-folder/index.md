@@ -8,11 +8,11 @@ layout: frontpage
 header:
   image_fullwidth: banner.jpg
 widget1:
-  title: "Radio Astronomoy"
+  title: "Radio Astronomy"
   url: '/highlights/'
   image: fig_project3b_s.png
-  text: 'test'
-  #text: 'An active field of research in astronomy deals with recognising rare features in data streams from space obervations in (almost) real time. This challenging task arises from the massive imaging surveys of the sky carried our at a wide range of wavelengths (optical, radio, X-ray). The purpose is no longer just to find objects that are there all or most of the time, but also to spot so-called ‘transient’ objects that appear only fleetingly.'
+  #text: 'test'
+  text: 'An active field of research in astronomy deals with recognising rare features in data streams from space obervations in (almost) real time. This challenging task arises from the massive imaging surveys of the sky carried our at a wide range of wavelengths (optical, radio, X-ray). The purpose is no longer just to find objects that are there all or most of the time, but also to spot so-called ‘transient’ objects that appear only fleetingly.'
 widget2:
   title: "Liquid Chromatography"
   url: '/highlights/'
@@ -83,7 +83,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 __________________________________________
 
-<center> <h1>AI4Science Colloquiem</h1> </center>
+<center> <h1>AI4Science Colloquium</h1> </center>
 
 The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounced speakers active in the field of Artificial Intelligence and Science. 
 
