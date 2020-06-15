@@ -17,8 +17,8 @@ widget2:
   title: "Liquid Chromatography"
   url: '/highlights/'
   image: fig_project2.png
-  #text: 'test'  
-  text:'Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate and detect trace molecular compounds in complex samples such as food contaminants, industrial production streams, urine, or blood, to name but a few examples. However, successful implementation requires time-consuming experiment-specific optimization of many parameters. Machine learning can aid with data-analysis and the acceleration of optimization.'  
+  text: 'test'  
+  #text:'Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate and detect trace molecular compounds in complex samples such as food contaminants, industrial production streams, urine, or blood, to name but a few examples. However, successful implementation requires time-consuming experiment-specific optimization of many parameters. Machine learning can aid with data-analysis and the acceleration of optimization.'  
 widget3:
   title: "Gravitational Waves"
   url: '/highlights/'
