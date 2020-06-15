@@ -7,7 +7,7 @@ title: "Colloquiem"
 header:
    image_fullwidth: "banner.jpg"
    title: ''
-permalink: "/colloquiem/"
+permalink: "/colloquium/"
 ---
 > Knowledge Shared = Knowlegde<sup>2</sup>
 <cite>Bob Work</cite>
