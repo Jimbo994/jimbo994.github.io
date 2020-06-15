@@ -7,7 +7,7 @@
   side: right
   dropdown:
   - title: "Meet the People"
-    url: "/who-we-are/"
+    url: "/meet-the-people/"
   - title: "Highlights"
     url: "/highlights/"
 #  - title: "design a grid"
