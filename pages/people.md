@@ -16,13 +16,20 @@ permalink: "/people/"
     </div><!-- /.small-12.columns -->
 </div>
 
+<br/>
+
 <div class="row">
   <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=Width+220+Pixel">
-      
+  <img src="../people/BerndEnsing2_s.jpg" alt="Bernd Ensing" /></a>
+    </div>
+       <h3><a href="http://www.acmm.nl/ensing/">Bernd Ensing</a></h3>
+       <p>Director</p>
+    </div>
   </div>
   <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
+      <img src="../people/PatrickForre.jpg">
+      <H3>Patrick Forr&eacute</H3>           
+      <H4>Lab Manager</H4>
   </div>
 </div>
 
@@ -33,6 +40,8 @@ permalink: "/people/"
         <h3>Group Leaders and Consultants</h3>
     </div><!-- /.small-12.columns -->
 </div>
+
+<br/>
 
 <div class="row">
   <div class="large-3 columns">
@@ -91,6 +100,8 @@ permalink: "/people/"
         <h3>PhD Students</h3>
     </div><!-- /.small-12.columns -->
 </div>
+
+<br/>
 
 <div class="row">
   <div class="large-3 columns">
