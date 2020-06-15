@@ -9,9 +9,7 @@ header:
    title: ''
 permalink: "/colloquium/"
 ---
-> Knowledge Shared = Knowlegde<sup>2</sup>
-<cite>Bob Work</cite>
-
+> Knowledge Shared = Knowledge<sup>2</sup>
 
 ## Next Colloquium
 
@@ -19,9 +17,9 @@ permalink: "/colloquium/"
 
 Date: 30-06-2020 14:00-15:00 Central European Summer Time
 
-Speaker: Tristan Bereau, Assistant professor, [Computational Soft Matter][1], HIMS, UvA
+Speaker: **Tristan Bereau**, Assistant professor, [Computational Soft Matter][1], HIMS, UvA
 
-Abstract: <br/>
+**Abstract:** <br/>
 Advanced statistical methods are rapidly impregnating many scientific fields, offering new perspectives on long-standing problems. In materials science, data-driven methods are already bearing fruit in various disciplines, such as hard condensed matter or inorganic chemistry, as well as soft matter to a smaller extent.
 When coupling machine learning to molecular simulations, many problems of interest display dauntingly-large interpolation spaces, limiting their immediate application without undesired artifacts (e.g., extrapolation). The incorporation of physical information, such as conserved quantities, symmetries, and constraints, can play a decisive role in reducing the interpolation space. Conversely, physics can help determine whether a machine-learning prediction should be trusted, acting as a more robust alternative to the predictive variance.
 In this talk I will show how incorporating physics in machine-learning models can help connect resolutions in multiscale modeling. Illustrations will include force-field parametrization, automated dimensionality reduction and clustering, and generative models to reintroduce atomistic detail in coarse-grained configurations.
