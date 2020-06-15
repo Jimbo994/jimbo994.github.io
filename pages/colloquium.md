@@ -17,6 +17,11 @@ permalink: "/colloquium/"
 
 Date: 30-06-2020 14:00-15:00 Central European Summer Time
 
+ <img src="../people/tristan_bereau.jpg"
+     alt="Tristan Bereau"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
 Speaker: **Tristan Bereau**, Assistant professor, [Computational Soft Matter][1], HIMS, UvA
 
 **Abstract:** <br/>
