@@ -49,6 +49,41 @@ permalink: "/people/"
   </div>
 </div>
 
+<br/>
+
+<div class="row">
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
+  </div>
+</div>
+
+<br/>
+
+<div class="row">
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
+  </div>
+</div>
+
+<br/>
 ---------------------------------------------------
 
 <div class="row">
@@ -71,6 +106,8 @@ permalink: "/people/"
       <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
   </div>
 </div>
+
+<br/>
 
 <div class="row">
   <div class="large-3 columns">
