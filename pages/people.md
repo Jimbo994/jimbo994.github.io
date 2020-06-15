@@ -20,6 +20,7 @@ permalink: "/people/"
 <div class="row">
   <div class="large-3 columns">
       <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=Width+220+Pixel">
+      
   </div>
   <div class="large-3 columns">
       <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
@@ -31,7 +32,6 @@ permalink: "/people/"
       <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
   </div>
 </div>
-</div><!-- /.hide-for-small -->
 
 
 <center> <h2>Management</h2> </center>
