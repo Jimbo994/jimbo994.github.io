@@ -7,8 +7,6 @@
   side: right
   dropdown:
   - title: "Meet the People"
-    url: "/people/"
-  - title: "who we are"
     url: "/meet-the-people/"
   - title: "Highlights"
     url: "/highlights/"
