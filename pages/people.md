@@ -10,6 +10,13 @@ header:
 permalink: "/people/"
 ---
 
+<style>
+.center {
+  margin: auto;
+  width: 70%;
+}
+</style>
+
 <div class="row">
     <div class="small-12 columns">
         <h3>Management</h3>
@@ -18,6 +25,7 @@ permalink: "/people/"
 
 <br/>
 
+<div class="center">
 <div class="row">
   <div class="large-3 columns">
   <img src="../people/BerndEnsing2_s.jpg" alt="Bernd Ensing" />
@@ -29,9 +37,10 @@ permalink: "/people/"
   <div class="large-3 columns">
   <img src="../people/PatrickForre.jpg" alt="Patrick Forre" />
     <div>
-       <h3><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forr &eacute; </a></h3>
+       <h3><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forr&eacute; </a></h3>
        <p>Lab Manager</p>
     </div>
+</div>
 </div>
 </div>
 
