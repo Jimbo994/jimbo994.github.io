@@ -32,7 +32,7 @@ In this talk I will show how incorporating physics in machine-learning models ca
 <img src="../images/physml.jpg"
      alt="Physical Machine learning"
      width="400"
-     style="float: center; margin-right: 10px;/>
+     style="float: center; margin-right: 10px;"/>
 <p>Ref: <a href=""https://www.cell.com/biophysj/fulltext/S0006-3495(20)30114-4>Biophysical Journal</a></p>
 
 ## Email List
