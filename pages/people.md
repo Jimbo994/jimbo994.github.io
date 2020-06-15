@@ -34,7 +34,6 @@ permalink: "/people/"
        <h3><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forr&eacute</a></h3>
        <p>Lab Manager</p>
     </div>
-  </div>
 </div>
 
 -----------------------------------------------------------
