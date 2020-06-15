@@ -20,8 +20,8 @@ permalink: "/people/"
 
 <div class="row">
   <div class="large-3 columns">
-  <img src="../people/BerndEnsing2_s.jpg" alt="Bernd Ensing" /></a>
-    </div>
+  <img src="../people/BerndEnsing2_s.jpg" alt="Bernd Ensing" />
+    <div>
        <h3><a href="http://www.acmm.nl/ensing/">Bernd Ensing</a></h3>
        <p>Director</p>
     </div>
