@@ -20,6 +20,7 @@ permalink: "/people/"
 
 <div class="row">
   <div class="large-3 columns">
+  <a href="http://www.acmm.nl/ensing/">
   <img src="../people/BerndEnsing2_s.jpg" alt="Bernd Ensing" />
     <div>
        <h3><a href="http://www.acmm.nl/ensing/">Bernd Ensing</a></h3>
@@ -29,7 +30,7 @@ permalink: "/people/"
   <div class="large-3 columns">
        <a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">
        <img src="../people/PatrickForre.jpg" alt="Patrick Forre" /></a>
-       </div>
+       <div>
           <h3><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forr&eacute</a></h3>
           <p>Lab Manager</p>
         </div>
