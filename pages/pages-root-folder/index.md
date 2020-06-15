@@ -25,20 +25,20 @@ widget3:
   image: fig_project1.png
   text: 'The breakthrough discovery of the first gravitational wave signal in September 2015 (Nobel Prize 2017) has opened a new window to the Universe. Analyses of the signal waveforms during the initial inspiral, merger and final ringdown phase provide crucial information about the properties of superheavy stellar objects.'
 widget4:
-  title: "Gravitational Waves"
+  title: "Project Fiona"
   url: '/highlights/'
   image: fig_project1.png
-  text: 'test'
+  text: 'TODO'
 widget5:
-  title: "Gravitational Waves"
+  title: "Project Teodora"
   url: '/highlights/'
   image: fig_project1.png
-  text: 'test'
+  text: 'TODO'
 #widget6:
 #  title: "Gravitational Waves"
 #  url: '/highlights/'
 #  image: fig_project1.png
-#  text: 'test'
+#  text: 'TODO'
 #
 # Use the call for action to show a button on the frontpage
 #
